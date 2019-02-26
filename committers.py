@@ -49,6 +49,7 @@ def write_charts():
                                          'Unique Commit Authors by Month',
                                          'Total Unique Commit Authors',
                                          'Commits by Language',
+                                         'Commits by Language (%)',
                                      ))
     fig['layout']['xaxis1'].update({
         'type': 'date',
