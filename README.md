@@ -2,7 +2,7 @@ Firefox committers touching Rust code
 =====================================
 
 This repository contains data about the number of Rust vs. C/C++ commits
-and commit authors in Firefox and instructions for reproducing the output.
+and commit authors in Firefox and instructions for reproducing the output. [See the output here.](https://luser.github.io/firefox-rust-committers/)
 
 
 Instructions
