@@ -136,7 +136,7 @@ body > div {{
 </style>
 </head>
 <body>
-Generated from the scripts in <a href="https://github.com/luser/firefox-rust-committers>this repository</a>.
+Generated from the scripts in <a href="https://github.com/luser/firefox-rust-committers">this repository</a>.
 {}
 </button>
 </body>
